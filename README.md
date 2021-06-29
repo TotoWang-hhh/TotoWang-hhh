@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TotoWang-hhh
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E-Mail: rgzz666@protonmail.com
 
