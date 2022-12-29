@@ -1,6 +1,6 @@
 # 👋 Hi, I’m rgzz666
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totowang-hhh&layout=compact&hide_border=true&theme=vue&show_icons=true">Most Used Language</img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totowang-hhh&layout=compact&hide_border=true&theme=vue&show_icons=true">
 
 ## Some of my program
 - Easy Pypi
