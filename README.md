@@ -1,7 +1,6 @@
 # 👋 Hi, I’m rgzz666
 
-<img src="https://github-readme-stats.vercel.app/api?username=totowang-hhh&hide_border=true&theme=defult&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totowang-hhh&layout=compact&hide_border=true&theme=defult&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=totowang-hhh&hide_border=false&theme=defult&show_icons=true" height="220px">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totowang-hhh&layout=compact&hide_border=false&theme=defult&show_icons=true" height="220px">
 
 ## Some of my program
 - Easy Pypi
