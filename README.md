@@ -8,7 +8,7 @@
 - PyMusicCtrl (Experimental) (Not on GitHub)
 - NLA in Tkinter (Experimental) (Not on GitHub)
 - WordLST (Not on GitHub)
-- Txt Replace (Not on GitHub)   无名程序
+- TXT Replace (Not on GitHub)   无名程序
 - Check? No way! (Not on GitHub)   检查个寂寞
 - SaveScreen (Not on GitHub)
 - Disk Death (Damage) (Joke) (Not on GitHub)
