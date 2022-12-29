@@ -2,6 +2,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=totowang-hhh&hide_border=false&theme=defult&show_icons=true" height="180px">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totowang-hhh&layout=compact&hide_border=false&theme=defult&show_icons=true" height="180px">
 
+<div data-target="readme-toc.content" class="Box mt-3 position-relative">
+  除非另有指定，否则本人的开源原创软件均使用MPL开源许可
+</div>
+
 ## Some of my program
 - Easy Pypi
 - Music Area | 音乐地带
