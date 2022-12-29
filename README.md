@@ -2,19 +2,19 @@
 
 ## Some of my program
 - Easy Pypi
-- Music Area   音乐地带
+- Music Area | 音乐地带
 - AnyPod
-- QQ Killer   QQ刷屏助手
-- PyMusicCtrl (Experimental) (Not on GitHub)
-- NLA in Tkinter (Experimental) (Not on GitHub)
-- WordLST (Not on GitHub)
-- TXT Replace (Not on GitHub)   无名程序
-- Check? No way! (Not on GitHub)   检查个寂寞
-- SaveScreen (Not on GitHub)
-- Disk Death (Damage) (Joke) (Not on GitHub)
-- Color TXT (Not on GitHub)
-- Scan PC (Not on GitHub)
-- Py Duer (Not on GitHub)
+- QQ Killer | QQ刷屏助手
+- PyMusicCtrl | (Experimental) (Not on GitHub)
+- NLA in Tkinter | (Experimental) (Not on GitHub)
+- WordLST | (Not on GitHub)
+- TXT Replace | 无名程序 | (Not on GitHub)
+- Check? No way! | 检查个寂寞 | (Not on GitHub)
+- SaveScreen | (Not on GitHub)
+- Disk Death | (Damage) (Joke) (Not on GitHub)
+- Color TXT | 真·霓虹灯牌 | (Not on GitHub)
+- Scan PC | PC版扫一扫 | (Not on GitHub)
+- Py Duer | Python小度 | (Not on GitHub)
 - tttk
 
 👆Almost All...
