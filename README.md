@@ -18,15 +18,15 @@
 - Check? No way! | 检查个寂寞 | (Not on GitHub)
 - SaveScreen | (Not on GitHub)
 - Disk Death | (Damage) (Joke) (Not on GitHub)
-- Color TXT | 真·霓虹灯牌 | (Not on GitHub)
+- Color TXT | 真·霓虹灯牌 | (Not on GitHub) (Joke)
 - Scan PC | PC版扫一扫 | (Not on GitHub)
 - Py Duer | Python小度 | (Not on GitHub)
 - tttk
 - [No English Name] | 不信你看网上？ | (Not Published)
 - [No English Name] | 密码屏保 | (Not Published)
-- Err!!! | (Damage) (Not Published)
-- [No English Name] | 老工具 | (Developing)
-- [No English Name] | 装B大师 | (Not Published)
+- Err!!! | (Damage) (Joke) (Not Published)
+- [No English Name] | 老工具 | (Developing) (Joke)
+- [No English Name] | 装B大师 | (Joke) (Not Published)
 
 👆Almost All...
 
