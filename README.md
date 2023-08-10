@@ -34,14 +34,17 @@ If you are interested in any of the programs above, feel free to contact me to g
 
 ## Still Updating (Plan to Update)
 
+### Python Visual Programmer (PyVP)
+
+[NEW][Not Ready]  I'm now working on a new project with @xiaokang2022
+
+PyVP allows you build a python script or software without coding. Wanna have a look? Go to xiaokang2022/python-viasualprogrammer for more info.
+
 ### AnyPod
 ![Alt](https://repobeats.axiom.co/api/embed/7901cb3f833782cb3895c233df77a38536c7fb05.svg "Repobeats analytics image")
 
 ### Easy PyPI
 ![Alt](https://repobeats.axiom.co/api/embed/7e75da286620ad9b9d8831c23ac7d3d981a44a78.svg "Repobeats analytics image")
-
-### Music Area
-![Alt](https://repobeats.axiom.co/api/embed/34cd6716e716f4212cca115450da9805eeca20d1.svg "Repobeats analytics image")
 
 ### tttk
 ![Alt](https://repobeats.axiom.co/api/embed/8672024c86be918f2a848b60e340c00231f7234f.svg "Repobeats analytics image")
