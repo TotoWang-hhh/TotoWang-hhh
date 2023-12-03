@@ -40,7 +40,7 @@ If you are interested in any of the programs above, feel free to contact me to g
 
 Just post it on ProjMarket instead of archiving it. If somebody is free enough and wants your project to be continued, they can know it from this site and fork it, inherit it.
 
-Wanna have a look? 👉[116.198.35.73:10006](116.198.35.73:10006)
+Wanna have a look? 👉<116.198.35.73:10006>
 
 **Note: Only available in Chinese for now**, you can use the translate function in your browser.
 
