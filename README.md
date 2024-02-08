@@ -46,9 +46,9 @@ Wanna have a look? 👉[116.198.35.73:10006](http://116.198.35.73:10006)
 
 ### Python Visual Programmer (PyVP)
 
-[NEW][Not Ready]  I'm now working on a new project with @xiaokang2022
+[NEW][Not Ready]  I'm now working on a new project with @xiaokang2022 and @codecrafter-tl
 
-PyVP allows you build a python script or software without coding. Wanna have a look? Go to [xiaokang2022/visual-programmer](https://github.com/xiaokang2022/visual-programmer/) for more info.
+PyVP allows you build a python script or software without coding. Wanna have a look? Go to [pyvp-team/visual-programmer](https://github.com/pyvp-team/visual-programmer/) for more info.
 
 ### AnyPod
 ![Alt](https://repobeats.axiom.co/api/embed/7901cb3f833782cb3895c233df77a38536c7fb05.svg "Repobeats analytics image")
