@@ -44,8 +44,10 @@ Wanna have a look? 👉[116.198.35.73:10006](http://116.198.35.73:10006)
 
 **Note: Only available in Chinese for now**, you can use the translate function in your browser.
 
-### Python Visual Programmer (PyVP)
+### Mininalogger
+![Alt](https://repobeats.axiom.co/api/embed/5afba2037c45d0cd7ad4b04115abf4b9c3f2635c.svg "Repobeats analytics image")
 
+### Python Visual Programmer (PyVP)
 [NEW][Not Ready]  I'm now working on a new project with @xiaokang2022 and @codecrafter-tl
 
 PyVP allows you build a python script or software without coding. Wanna have a look? Go to [pyvp-team/visual-programmer](https://github.com/pyvp-team/visual-programmer/) for more info.
