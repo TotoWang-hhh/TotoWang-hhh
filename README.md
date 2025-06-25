@@ -6,12 +6,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=totowang-hhh&hide_border=false&theme=defult&show_icons=true" height="180px">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totowang-hhh&layout=compact&hide_border=false&theme=defult&show_icons=true" height="180px">
 
-## Some of my program
+## Some of My Personal Works (or Garbage)
 - Easy Pypi | [中文同名]
 - Music Area | 音乐地带
 - AnyPod | [中文同名]
 - QQ Killer | QQ刷屏助手
-- PyMusicCtrl | [中文同名] | (Experimental) (Not on GitHub)
 - NLA in Tkinter | [中文同名] | (Experimental) (Not on GitHub)
 - WordLST | [中文同名] | (Not on GitHub)
 - TXT Replace | 文件魔改器 | (Not on GitHub)
@@ -27,6 +26,9 @@
 - Err!!! | [中文同名] | (Damage) (Joke) (Not Published)
 - [No English Name] | 老工具 | (Developing) (Joke) (Lost)
 - [No English Name] | 装B大师 | (Joke) (Not Published) (Lost)
+- PyMediaControl | 基于Python的媒体控制中心 | (Experimental)
+- Minimalogger | [中文同名]
+- AM-Like Lyrics Player | 仿苹果音乐的带歌词音乐播放器 | (Forked)
 
 👆Almost All...
 
@@ -34,32 +36,15 @@ If you are interested in any of the programs above, feel free to contact me to g
 
 ## Still Working on...
 
-### 弃坑啦 (ProjMarket)
-
-> Hey! R U gonna stop working on this project just because you're too busy? But that's so interesting!
-
-Just post it on ProjMarket instead of archiving it. If somebody is free enough and wants your project to be continued, they can know it from this site and fork it, inherit it.
-
-Wanna have a look? 👉[116.198.35.73:10006](http://116.198.35.73:10006)
-
-**Note: Only available in Chinese for now**, you can use the translate function in your browser.
-
 ### Mininalogger
 ![Alt](https://repobeats.axiom.co/api/embed/5afba2037c45d0cd7ad4b04115abf4b9c3f2635c.svg "Repobeats analytics image")
 
 ### Python Visual Programmer (PyVP)
 [NEW][Not Ready]  I'm now working on a new project with @xiaokang2022 and @codecrafter-tl
 
+**I'm sure it will be continued... some days...**
+
 PyVP allows you build a python script or software without coding. Wanna have a look? Go to [pyvp-team/visual-programmer](https://github.com/pyvp-team/visual-programmer/) for more info.
-
-### AnyPod
-![Alt](https://repobeats.axiom.co/api/embed/7901cb3f833782cb3895c233df77a38536c7fb05.svg "Repobeats analytics image")
-
-### Easy PyPI
-![Alt](https://repobeats.axiom.co/api/embed/7e75da286620ad9b9d8831c23ac7d3d981a44a78.svg "Repobeats analytics image")
-
-### tttk
-![Alt](https://repobeats.axiom.co/api/embed/8672024c86be918f2a848b60e340c00231f7234f.svg "Repobeats analytics image")
 
 <!---
 TotoWang-hhh/TotoWang-hhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
