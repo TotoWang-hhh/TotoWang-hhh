@@ -27,8 +27,10 @@
 - [No English Name] | 老工具 | (Developing) (Joke) (Lost)
 - [No English Name] | 装B大师 | (Joke) (Not Published) (Lost)
 - PyMediaControl | 基于Python的媒体控制中心 | (Experimental)
+- Stay Foolish Editor | 求知若愚编辑器 | (Joke)
 - Minimalogger | [中文同名]
 - AM-Like Lyrics Player | 仿苹果音乐的带歌词音乐播放器 | (Forked)
+- Apple Glass Effect With Pygame | 基于Pygame的苹果窜稀玻璃复刻
 
 👆Almost All...
 
@@ -36,8 +38,11 @@ If you are interested in any of the programs above, feel free to contact me to g
 
 ## Still Working on...
 
+## Apple Glass Effect With Pygame
+This is a project aimed to implement Apple's new liquid glass effect using Pygame. [More >](https://github.com/totowang-hhh/AppleGlassEffect)
+
 ### Mininalogger
-![Alt](https://repobeats.axiom.co/api/embed/5afba2037c45d0cd7ad4b04115abf4b9c3f2635c.svg "Repobeats analytics image")
+This is a minimized logging tool for any Python users. [More >](https://github.com/totowang-hhh/minimalogger)
 
 ### Python Visual Programmer (PyVP)
 [NEW][Not Ready]  I'm now working on a new project with @xiaokang2022 and @codecrafter-tl
