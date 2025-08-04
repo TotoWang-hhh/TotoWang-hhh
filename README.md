@@ -38,7 +38,10 @@ If you are interested in any of the programs above, feel free to contact me to g
 
 ## Still Working on...
 
-## Apple Glass Effect With Pygame
+### Suzaku (朱雀)
+This is a GUI module based on skia-python and GLFW. The aim is to make it more powerful than tkinter. I am working on this with @XiangQinXi, and will takeover when his new school term starts. [More >](https://github.com/XiangQinXi/suzaku)
+
+### Apple Glass Effect With Pygame
 This is a project aimed to implement Apple's new liquid glass effect using Pygame. [More >](https://github.com/totowang-hhh/AppleGlassEffect)
 
 ### Mininalogger
