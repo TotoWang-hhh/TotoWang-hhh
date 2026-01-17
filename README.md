@@ -1,4 +1,4 @@
-**除非另有指定，否则本人的开源原创软件均使用MPL开源许可**
+**My projects are licensed under MPL2.0 unless specified somewhere else.**
 
 ---
 
@@ -60,7 +60,7 @@ Hope you enjoy it. Share it if you like it, many thanks!
 
 PyVP allows you build a python script or software without coding. Wanna have a look? Go to [pyvp-team/visual-programmer](https://github.com/pyvp-team/visual-programmer/) for more info.
 
-This project will has a 90% probability of being abandoned, as the maintainer of Maliang module (formerly tkintertools), who started this as an extension of tkintertools, seems already putting most of his efforts on PySide and his career, bless him...
+This project has a 90% probability of being abandoned, as the maintainer of Maliang module (formerly tkintertools), who started this as an extension of tkintertools, seems already putting most of his efforts on PySide and his career, bless him...
 
 <!---
 TotoWang-hhh/TotoWang-hhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
