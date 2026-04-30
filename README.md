@@ -45,7 +45,7 @@ This is a minimized logging tool for any Python users. [More >](https://github.c
 Hope you enjoy it. Share it if you like it, many thanks!
 
 
-## Some of My Personal Works (or Garbage)
+## Full List of My Works (or Sh*t)
 - Easy Pypi | [中文同名]
 - Music Area | 音乐地带
 - AnyPod | [中文同名]
