@@ -6,12 +6,16 @@
 
 I am a Chinese student born in 2008. I currently work on Python, but also able to make some static webpages. I will start learning another programming language later this year, but have not decided which one yet.
 
-I do servers, hence also Linux. Exept technical stuff, I play Minecraft, Portal and Teardown for games. Together, above consists almost all of my time on computers.
+I do servers, hence also Linux. Besides the technical stuff, I play Minecraft and some brilliant single-player games (I don't actually spend much time on them). Together, above consists almost all of my time on computers.
 
-(hmm... I will add more later)
+Collecting and bird-watching fills the rest of my free time. My collection contains old mobile devices and CDs, also some trash which has special meanings to me.
+
+(hmm... maybe a photo of my ~~collection~~ trash?)
 
 - **My blog (in Chinese):** https://rgzz666.top
 - **Email:** [tt1224@hotmail.com](mailto:tt1224@hotmail.com)
+- **QQ:** 1349933474 (人)
+- **Matrix:** @rgzz666:mozilla.org (Rarely checked)
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=totowang-hhh&hide_border=false&theme=defult&show_icons=true" height="180px">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totowang-hhh&layout=compact&hide_border=false&theme=defult&show_icons=true" height="180px">-->
 
