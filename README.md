@@ -15,7 +15,7 @@ Collecting and bird-watching fills the rest of my free time. My collection conta
 - **My blog (in Chinese):** https://rgzz666.top
 - **Email:** [tt1224@hotmail.com](mailto:tt1224@hotmail.com)
 - **QQ:** 1349933474 (人)
-- **Matrix:** @rgzz666:mozilla.org (Rarely checked)
+- **Matrix:** @rgzz666:mozilla.org (Rarely checked, consider email me first)
 
 > Facts last updated in May 2026
 > 
