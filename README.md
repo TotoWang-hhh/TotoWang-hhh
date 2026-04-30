@@ -4,9 +4,22 @@
 
 # 👋 Hi, I’m rgzz666
 
-<img src="https://github-readme-stats.vercel.app/api?username=totowang-hhh&hide_border=false&theme=defult&show_icons=true" height="180px">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totowang-hhh&layout=compact&hide_border=false&theme=defult&show_icons=true" height="180px">
+I am a Chinese student born in 2008. I currently work on Python, but also able to make some static webpages. I will start learning another programming language later this year, but have not decided which one yet.
 
-## Currently Working on...
+I do servers, hence also Linux. Exept technical stuff, I play Minecraft, Portal and Teardown for games. Together, above consists almost all of my time on computers.
+
+(hmm... I will add more later)
+
+- **My blog (in Chinese):** https://rgzz666.top
+- **Email:** [tt1224@hotmail.com](mailto:tt1224@hotmail.com)
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=totowang-hhh&hide_border=false&theme=defult&show_icons=true" height="180px">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totowang-hhh&layout=compact&hide_border=false&theme=defult&show_icons=true" height="180px">-->
+
+## You May Interested In
+
+~~I don't mind if you will get interested, I only care about whether I think you may get interested. 😡~~
+
+Kidding, these are the only ones that actually required 'skills'.
 
 ### Charmy
 This is a GUI module that allows its backend being selected by users. The aim is to make it more powerful than tkinter, while still lightweight and cross-platform.
