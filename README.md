@@ -10,7 +10,7 @@ I do servers, hence also Linux. Besides the technical stuff, I play Minecraft an
 
 Collecting and bird-watching fills the rest of my free time. My collection contains old mobile devices and CDs, also some trash which has special meanings to me.
 
-(hmm... maybe a photo of my ~~collection~~ trash?)
+(hmm... maybe I should add a photo of my ~~collection~~ trash? maybe tomorrow or even later...)
 
 - **My blog (in Chinese):** https://rgzz666.top
 - **Email:** [tt1224@hotmail.com](mailto:tt1224@hotmail.com)
