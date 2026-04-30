@@ -54,6 +54,7 @@ Hope you enjoy it. Share it if you like it, many thanks!
 
 
 ## Full List of My Works (or Sh*t)
+
 - Easy Pypi | [中文同名]
 - Music Area | 音乐地带
 - AnyPod | [中文同名]
@@ -84,11 +85,13 @@ Hope you enjoy it. Share it if you like it, many thanks!
 
 Those programs are just nonsense written by myself years ago, when I just started to learn programming.
 
-Many of them were written during my school days in 2022~2023, I always rush into the school library after each class, not for books but for those public computers in that library. Then seizing every second to ~~poop some spaghetti on the Internet~~. I will never forget those days. Those programs were once almost lost as I could not find my old USB drive, but luckily the drive was found left on my brother's car two years later.
+Many of them were written during my school days in 2022~2023, I always rush into the school library after each class, not for books but for those public computers in that library. Then seizing every second to ~~poop some spaghetti on the Internet~~. I will never forget those days.
+
+Many of those programs were once almost lost as I could not find my old USB drive, but luckily the drive was found left on my brother's car two years later.
 
 In 2026, I went back to that library (as I remained in the same campus for senior high school) and luckily that book manager still recognizes me. I sat down where I was 3 years ago, and started coding for Charmy...
 
-**Well...** if you are interested in any of the programs above, I will be happy to provide its source code, so feel free to contact me for them. Any of above except those labeled with 'Lost' can be provided as soon as possible.
+**Well...** if you are interested in any of the programs above, I will be happy to provide their source code, so feel free to contact me for them. Any of above except those labeled with 'Lost' can be provided as soon as possible.
 
 <!---
 TotoWang-hhh/TotoWang-hhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
