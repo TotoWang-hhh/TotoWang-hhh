@@ -39,14 +39,18 @@ I am currently refactoring the whole thing by myself, and plan to finish in the 
 [More >](https://github.com/charmy-dev/charmy)
 
 ### Apple Glass Effect With Pygame
-This is a project aimed to implement Apple's new liquid glass effect using Pygame. [More >](https://github.com/totowang-hhh/AppleGlassEffect)
+This is a project aimed to implement Apple's new liquid glass effect using Pygame. 
 
-Note that this will have the highest priority until March 2026, as I am also developing it as an academical project for EPQ.
+This was started and maintained as a semi-academical project and was abandoned now after submission of the report.
+
+[More >](https://github.com/totowang-hhh/AppleGlassEffect)
 
 ### Mininalogger
-This is a minimized logging tool for any Python users. [More >](https://github.com/totowang-hhh/minimalogger)
+This is a minimized logging tool for any Python users.
 
 Hope you enjoy it. Share it if you like it, many thanks!
+
+[More >](https://github.com/totowang-hhh/minimalogger)
 
 
 ## Full List of My Works (or Sh*t)
