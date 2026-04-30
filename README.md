@@ -17,8 +17,6 @@ I am currently refactoring the whole thing by myself, and plan to finish in the 
 
 [More >](https://github.com/charmy-dev/charmy)
 
-I will pause my personal role in Suzaku due to a planned start over of this project, and the priority of Apple Glass Effect With Pygame mentioned below. You may wish to come back to here very often to learn more about our new project with same aims and technologies, which we called it Charmy.
-
 ### Apple Glass Effect With Pygame
 This is a project aimed to implement Apple's new liquid glass effect using Pygame. [More >](https://github.com/totowang-hhh/AppleGlassEffect)
 
