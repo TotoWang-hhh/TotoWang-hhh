@@ -1,4 +1,4 @@
-**My projects are licensed under MPL2.0 unless specified somewhere else.**
+**My projects are licensed under MPL2.0 unless specified anywhere else.**
 
 ---
 
