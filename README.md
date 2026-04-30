@@ -6,6 +6,30 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=totowang-hhh&hide_border=false&theme=defult&show_icons=true" height="180px">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totowang-hhh&layout=compact&hide_border=false&theme=defult&show_icons=true" height="180px">
 
+## Currently Working on...
+
+### Charmy
+This is a GUI module that allows its backend being selected by users. The aim is to make it more powerful than tkinter, while still lightweight and cross-platform.
+
+I am working on this with @XiangQinXi, also with other dev members.
+
+I am currently refactoring the whole thing by myself, and plan to finish in the 2026 Chinese (Mainland) summer holiday, which will be before Sep 2026. ~~However, I can always be a true deadline runner.~~
+
+[More >](https://github.com/charmy-dev/charmy)
+
+I will pause my personal role in Suzaku due to a planned start over of this project, and the priority of Apple Glass Effect With Pygame mentioned below. You may wish to come back to here very often to learn more about our new project with same aims and technologies, which we called it Charmy.
+
+### Apple Glass Effect With Pygame
+This is a project aimed to implement Apple's new liquid glass effect using Pygame. [More >](https://github.com/totowang-hhh/AppleGlassEffect)
+
+Note that this will have the highest priority until March 2026, as I am also developing it as an academical project for EPQ.
+
+### Mininalogger
+This is a minimized logging tool for any Python users. [More >](https://github.com/totowang-hhh/minimalogger)
+
+Hope you enjoy it. Share it if you like it, many thanks!
+
+
 ## Some of My Personal Works (or Garbage)
 - Easy Pypi | [中文同名]
 - Music Area | 音乐地带
@@ -18,6 +42,7 @@
 - SaveScreen | [中文同名] | (Not on GitHub)
 - Disk Death | 重复写数据 | (Damage) (Joke) (Not on GitHub)
 - Color TXT | 真·霓虹灯牌 | (Not on GitHub) (Joke)
+- Charmy | 恰米（暂定译名）
 - Scan PC | PC版扫一扫 | (Not on GitHub)
 - Py Duer | Python小度 | (Not on GitHub) (Stopped working nowadays)
 - tttk | [中文同名]
@@ -34,33 +59,13 @@
 
 👆Almost All...
 
-If you are interested in any of the programs above, feel free to contact me to get that. Any of above except those labeled with 'Lost' can be provided as soon as I reach my personal server.
+Those programs are just nonsense written by myself years ago, when I just started to learn programming.
 
-## Still Working on...
+Many of them were written during my school days in 2022~2023, I always rush into the school library after each class, not for books but for those public computers in that library. Then seizing every second to ~~poop some spaghetti on the Internet~~. I will never forget those days. Those programs were once almost lost as I could not find my old USB drive, but luckily the drive was found left on my brother's car two years later.
 
-### Suzaku (朱雀)
-This is a GUI module based on skia-python and GLFW. The aim is to make it more powerful than tkinter. I am working on this with @XiangQinXi, and will takeover when his new school term starts. [More >](https://github.com/XiangQinXi/suzaku)
+In 2026, I went back to that library (as I remained in the same campus for senior high school) and luckily that book manager still recognizes me. I sat down where I was 3 years ago, and started coding for Charmy...
 
-I will pause my personal role in Suzaku due to a planned start over of this project, and the priority of Apple Glass Effect With Pygame mentioned below. You may wish to come back to here very often to learn more about our new project with same aims and technologies, which we called it Charmy.
-
-### Apple Glass Effect With Pygame
-This is a project aimed to implement Apple's new liquid glass effect using Pygame. [More >](https://github.com/totowang-hhh/AppleGlassEffect)
-
-Note that this will have the highest priority until March 2026, as I am also developing it as an academical project for EPQ.
-
-### Mininalogger
-This is a minimized logging tool for any Python users. [More >](https://github.com/totowang-hhh/minimalogger)
-
-Hope you enjoy it. Share it if you like it, many thanks!
-
-### Python Visual Programmer (PyVP)
-[NEW][Not Ready]  I'm now working on a new project with @xiaokang2022 and @codecrafter-tl
-
-**I'm sure it will be continued... some days...** or not really...
-
-PyVP allows you build a python script or software without coding. Wanna have a look? Go to [pyvp-team/visual-programmer](https://github.com/pyvp-team/visual-programmer/) for more info.
-
-This project has a 90% probability of being abandoned, as the maintainer of Maliang module (formerly tkintertools), who started this as an extension of tkintertools, seems already putting most of his efforts on PySide and his career, bless him...
+**Well...** if you are interested in any of the programs above, I will be happy to provide its source code, so feel free to contact me for them. Any of above except those labeled with 'Lost' can be provided as soon as possible.
 
 <!---
 TotoWang-hhh/TotoWang-hhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
