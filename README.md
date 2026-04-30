@@ -13,7 +13,7 @@ This is a GUI module that allows its backend being selected by users. The aim is
 
 I am working on this with @XiangQinXi, also with other dev members.
 
-I am currently refactoring the whole thing by myself, and plan to finish in the 2026 Chinese (Mainland) summer holiday, which will be before Sep 2026. ~~However, I can always be a true deadline runner.~~
+I am currently refactoring the whole thing by myself, and plan to finish in the 2026 Chinese (Mainland) summer holiday, which will be before Sep 2026. ~~However, I can always be a true flake.~~
 
 [More >](https://github.com/charmy-dev/charmy)
 
