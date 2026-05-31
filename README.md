@@ -4,7 +4,7 @@
 
 # 👋 Hi, I’m rgzz666
 
-> I don't like using badges but I can show you something like [this](https://img.shields.io/badge/Porn-Hub-orange)
+> I don't like using badges but I can show you something like ![this](https://img.shields.io/badge/Porn-Hub-orange)
 
 I am a Chinese student born in 2008, currently working on Python programs, but also able to make some static webpages. I will start learning another programming language later this year, but have not decided which one yet.
 
