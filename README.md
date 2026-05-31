@@ -4,6 +4,8 @@
 
 # 👋 Hi, I’m rgzz666
 
+> I don't like using badges but I can show you something like [this](https://img.shields.io/badge/Porn-Hub-orange)
+
 I am a Chinese student born in 2008, currently working on Python programs, but also able to make some static webpages. I will start learning another programming language later this year, but have not decided which one yet.
 
 I do servers, hence also Linux. Besides the technical stuff, I play Minecraft and some brilliant single-player games (I don't actually spend much time on them). Together, above consists almost all of my time on computers.
@@ -15,9 +17,7 @@ Collecting and bird-watching fills the rest of my free time. My collection conta
 - **QQ:** 1349933474 (人)
 - **Matrix:** @rgzz666:mozilla.org (Rarely checked, consider email me first)
 
-I can communicate in simplified or traditional Chinese, while also English as my second language. Mandarin or Wuhan dialect only for spoken Chinese. I may be hard to understand English with heavy accent.
-
-(hmm... maybe I should add a photo of my ~~collection~~ trash? maybe tomorrow or even later...)
+I can communicate in Chinese (either simplified or traditional, or both if you are so bored) or English (without too heavy accent).
 
 > Facts last updated in May 2026
 > 
